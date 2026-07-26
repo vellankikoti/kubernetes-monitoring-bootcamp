@@ -12,7 +12,9 @@ A hands-on engineering playbook for building, operating, and troubleshooting pro
 
 ## Start here
 
-📖 **[docs/README.md](docs/README.md)** — full table of contents, Part 1 through Part 20.
+🌐 **[Live interactive guide](https://vellankikoti.github.io/kubernetes-monitoring-bootcamp/)** — sidebar navigation across all 26 chapters, rendered Mermaid diagrams, light/dark theme.
+
+📖 **[docs/README.md](docs/README.md)** — the same content as plain Markdown, full table of contents, Part 1 through Part 20.
 
 ## Structure
 
